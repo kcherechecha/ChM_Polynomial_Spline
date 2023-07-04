@@ -1,0 +1,15 @@
+/Users/kcherechecha/RiderProjects/ConsoleApp10/ConsoleApp10/bin/Debug/net7.0/ConsoleApp10
+/Users/kcherechecha/RiderProjects/ConsoleApp10/ConsoleApp10/bin/Debug/net7.0/ConsoleApp10.deps.json
+/Users/kcherechecha/RiderProjects/ConsoleApp10/ConsoleApp10/bin/Debug/net7.0/ConsoleApp10.runtimeconfig.json
+/Users/kcherechecha/RiderProjects/ConsoleApp10/ConsoleApp10/bin/Debug/net7.0/ConsoleApp10.dll
+/Users/kcherechecha/RiderProjects/ConsoleApp10/ConsoleApp10/bin/Debug/net7.0/ConsoleApp10.pdb
+/Users/kcherechecha/RiderProjects/ConsoleApp10/ConsoleApp10/obj/Debug/net7.0/ConsoleApp10.csproj.AssemblyReference.cache
+/Users/kcherechecha/RiderProjects/ConsoleApp10/ConsoleApp10/obj/Debug/net7.0/ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kcherechecha/RiderProjects/ConsoleApp10/ConsoleApp10/obj/Debug/net7.0/ConsoleApp10.AssemblyInfoInputs.cache
+/Users/kcherechecha/RiderProjects/ConsoleApp10/ConsoleApp10/obj/Debug/net7.0/ConsoleApp10.AssemblyInfo.cs
+/Users/kcherechecha/RiderProjects/ConsoleApp10/ConsoleApp10/obj/Debug/net7.0/ConsoleApp10.csproj.CoreCompileInputs.cache
+/Users/kcherechecha/RiderProjects/ConsoleApp10/ConsoleApp10/obj/Debug/net7.0/ConsoleApp10.dll
+/Users/kcherechecha/RiderProjects/ConsoleApp10/ConsoleApp10/obj/Debug/net7.0/refint/ConsoleApp10.dll
+/Users/kcherechecha/RiderProjects/ConsoleApp10/ConsoleApp10/obj/Debug/net7.0/ConsoleApp10.pdb
+/Users/kcherechecha/RiderProjects/ConsoleApp10/ConsoleApp10/obj/Debug/net7.0/ConsoleApp10.genruntimeconfig.cache
+/Users/kcherechecha/RiderProjects/ConsoleApp10/ConsoleApp10/obj/Debug/net7.0/ref/ConsoleApp10.dll
